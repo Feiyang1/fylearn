@@ -1,0 +1,4 @@
+from fylearn import LinearRegressionModel
+from fylearn import LogisticRegressionModel
+
+print(LinearRegressionModel, LogisticRegressionModel)
